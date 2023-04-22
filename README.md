@@ -33,7 +33,7 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroFran2021/count.svg" /></p>
 
-![snake gif](https://github.com/PedroFran2021/FormandoDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RuandersonSouza/FormandoDev/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> PedroFran2021
 
