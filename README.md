@@ -17,8 +17,7 @@
   <img align="center" alt="PedroFran2021-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroFran2021-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PedroFran2021-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="PedroFran2021-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-                 
+   <img align="center" alt="PedroFran2021-Apple" height="30" width="40" src="https://icongr.am/devicon/apple-original.svg?size=128&color=currentColor">
   </div>
  </div>
 </br>
