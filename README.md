@@ -18,6 +18,10 @@
   <img align="center" alt="PedroFran2021-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PedroFran2021-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="PedroFran2021-Apple" height="30" width="40" src="https://icongr.am/devicon/apple-original.svg?size=128&color=currentColor">
+    <img align="center" alt="PedroFran2021-GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor">
+   <img align="center" alt="PedroFran2021-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="PedroFran2021-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="PedroFran2021-SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   </div>
  </div>
 </br>
