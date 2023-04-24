@@ -17,7 +17,8 @@
   <img align="center" alt="PedroFran2021-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroFran2021-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PedroFran2021-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="PedroFran2021-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+   <img align="center" alt="PedroFran2021-SQL" height="30" width="40" src="![image](https://user-images.githubusercontent.com/89569055/234113727-7270f5a1-60d6-415f-ba4f-b52606efba01.png)
+" />
           
   </div>
  </div>
