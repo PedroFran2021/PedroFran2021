@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "CelsiusXFahrenheit.C": "cpp",
+        "25%_salario.C": "cpp",
+        "salarios_minimos.C": "cpp",
+        "peso.C": "cpp",
+        "Calculo_Triangulo.C": "cpp",
+        "ponteiro.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
